@@ -112,29 +112,6 @@ Contributions are always welcome!
 - [ ] [Learning Azure](https://docs.microsoft.com/en-us/learn/azure/)
 - [ ] [Hands-On Training with GCP](https://cloud.google.com/training/badges)
 
-## Programming
-
-~~### Python
-
-~~- [ ] [Python Basics](https://pythonbasics.org/)~~
-~~- [ ] [Python For Everyone](https://www.py4e.com/)~~
-~~- [ ] [Complete Python Tutorial](https://www.scaler.com/topics/python/)~~
-
-~~### Go (Golang)~~
-
-~~- [ ] [A tour of Go](https://tour.golang.org)~~
-~~- [ ] [Go by Example](https://gobyexample.com)~~
-~~- [ ] [Go Tutorials & Examples](https://gosamples.dev)~~
-~~- [ ] [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)~~
-~~- [ ] [Getting up and running with Go](http://www.golangprograms.com)~~
-~~- [ ] [Effective Go](https://golang.org/doc/effective_go.html)~~
-~~- [ ] [Go Design Patterns](https://github.com/tmrts/go-patterns)~~
-~~- [ ] [Go Memory Management](https://povilasv.me/go-memory-management)~~
-~~- [ ] [Style Guide](https://google.github.io/styleguide/go/guide)~~
-~~- [ ] [Style Decisions](https://google.github.io/styleguide/go/decisions)~~
-~~- [ ] [Best Practices](https://google.github.io/styleguide/go/best-practices)~~
-~~- [ ] [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang)~~
-
 ### Big O Notation, Algorithms and Data Structures
 
 - [ ] [AlgoExperts](https://www.algoexpert.io)
