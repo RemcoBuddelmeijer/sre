@@ -170,10 +170,6 @@ Contributions are always welcome!
 - [ ] [An Incident Command Training Handbook](https://blog.danslimmon.com/2019/06/24/an-incident-command-training-handbook)
 - [ ] [Howie guide to post‑incident investigations](https://www.jeli.io/howie/welcome)
 
-## Resume
-
-- [ ] [SRE Complete Resume Writing Guide](https://rootly.com/blog/sre-complete-resume-writing-guide)
-
 ## Interview
 
 ### SRE interview process
@@ -200,34 +196,4 @@ Contributions are always welcome!
 - [ ] [Path to Site Reliability Management](https://danrl.com/srm)
 - [ ] [Becoming a Site Reliability Engineer](https://www.tik.dev/blog/becoming-an-sre)
 - [ ] [How I get a job at Google as SRE](https://fabrizio2210.medium.com/how-i-get-a-job-at-google-as-sre-83d44aef7859)
-
-## Books
-
-### SRE books
-
-- [ ] [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents)
-- [ ] [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents)
-- [ ] [Seeking SRE](https://books.google.ru/books?id=tmhqDwAAQBAJ)
-- [ ] [Building Secure and Reliable Systems](https://sre.google/books/building-secure-reliable-systems)
-- [ ] [Implementing Service Level Objectives](https://learning.oreilly.com/library/view/implementing-service-level/9781492076803)
-
-### Linux
-
-- [ ] [Linux Kernel Development (3rd Edition)](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468)
-- [ ] [UNIX and Linux System Administration Handbook (5th Edition)](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554)
-- [ ] [Linux Pocket Guide, 3rd Edition](http://shop.oreilly.com/product/0636920040927.do)
-
-### Networking
-
-- [ ] [TCP/IP Illustrated, Volume 1](https://www.amazon.com/TCP-Illustrated-Protocols-Addison-Wesley-Professional/dp/0321336313)
-
-### Troubleshooting and Performance
-
-- [ ] [Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098)
-- [ ] [Systems Performance, 2nd Edition](https://www.informit.com/store/systems-performance-9780136820154?ranMID=24808)
-
-## Courses
-
-- [ ] [Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos)
-- [ ] [School of SRE](https://linkedin.github.io/school-of-sre)
 
